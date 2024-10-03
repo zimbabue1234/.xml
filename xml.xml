@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+    <item>
+        <id>250</id>
+        <name>Chuleta de cerdo</name>
+        <type>Comida</type>
+        <rarity>Común</rarity>
+        <damage>1</damage>
+        <description>Una chuleta de cerdo</description>
+    </item>
+
+    <item>
+        <id>571</id>
+        <name>cubo de agua con un ajolote</name>
+        <type>Herramienta</type>
+        <rarity>Común</rarity>
+        <damage>1</damage>
+        <description>cubo de agua con un ajolote</description>
+    </item>
+
+    <item>
+        <id>1</id>
+        <name>Tierra</name>
+        <type>Común</type>
+        <rarity>Común</rarity>
+        <damage>1</damage>
+        <description>Tierra</description>
+    </item>
+
+    <item>
+        <id>109128</id>
+        <name>Vara del End</name>
+        <type>Entidad</type>
+        <rarity>Raro</rarity>
+        <damage>1</damage>
+        <description>Vara del End</description>
+    </item>
+
+    <item>
+        <id>864165</id>
+        <name>Sopa sospechosa</name>
+        <type>Comida</type>
+        <rarity>Rara</rarity>
+        <damage>1</damage>
+        <description>Te concede un efecto aleatorio</description>
+    </item>
+</minecraftItems>
