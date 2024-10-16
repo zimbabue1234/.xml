@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+    <item>
+        <id>250</id>
+        <name>Espada de madera</name>
+        <type>Herramienta</type>
+        <rarity>Común</rarity>
+        <damage>2</damage>
+        <description>Espada de madera</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material id="12">Madera</material>
+            <material id="2">Palo</material>
+        </materials>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment id="1234">Afilado 1</enchantment>
+            <enchantment id="5675">Irrompibilidad 2</enchantment>
+            <enchantment id="4562">Perdición de los artrópodos</enchantment>
+        </enchantments>
+        
+    </item>
+
+    <item>
+        <id>571</id>
+        <name>Pico de oro</name>
+        <type>Herramienta</type>
+        <rarity>Raro</rarity>
+        <damage>1,5</damage>
+        <description>Pico de oro</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material id="2">Palo</material>
+            <material id="76">Lingote de oro</material>
+        </materials>
+        <enchantable>true</enchantable>
+            <enchantment id="2387402">Eficiencia 2</enchantment>
+            <enchantment id="123445">Fortuna 1</enchantment>
+            <enchantment id="328947">Irrompiblidad 1</enchantment>
+    </item>
+
+    <item>
+        <id>1</id>
+        <name>Tierra</name>
+        <type>Común</type>
+        <rarity>Común</rarity>
+        <damage>1</damage>
+        <description>Tierra</description>
+        <crafteable>false</crafteable>
+        <enchantable>false</enchantable>
+    </item>
+
+    <item>
+        <id>109128</id>
+        <name>Vara del End</name>
+        <type>Entidad</type>
+        <rarity>Raro</rarity>
+        <damage>1</damage>
+        <description>Vara del End</description>
+        <crafteable>false</crafteable>
+        <enchantable>false</enchantable>
+    </item>
+
+    <item>
+        <id>864165</id>
+        <name>Sopa sospechosa</name>
+        <type>Comida</type>
+        <rarity>Rara</rarity>
+        <damage>1</damage>
+        <description>Te concede un efecto aleatorio</description>
+        <crafteable>false</crafteable>
+        <enchantable>false</enchantable>
+    </item>
+</minecraftItems>
