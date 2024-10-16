@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<minecraftItems lang="es">
-    
+<notasalumnos lang="es">
+    <alumnos>
+        <alumno nia="32647023648S">
+            <nombre>Mohammed</nombre>
+            <apellidos>Al Ramadan Ferrer Mulet</apellidos>
+                <modulos>
+                    <modulo>
+                       <nombre>Fundamentos Hardware</nombre>
+                       <nota>2</nota>
+                    </modulo>
+                    <modulo>
+                        <nombre>Lenguaje de Marcas</nombre>
+                        <nota>1</nota>
+                    </modulo>
+                    <modulo>
+                        <Nombre>BBDD</Nombre>
+                        <nota>1</nota>
+                        <comentario>Parla, molesta e interromp (fora de clase).</comentario>
+                    </modulo>           
+            </modulos>
+        </alumno>
+    </alumnos>
+</notasalumnos>  
