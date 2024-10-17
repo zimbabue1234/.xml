@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum lang="es">
+    <informacion>
+       <nombre>Muhammad</nombre>
+       <apellidos>Amrabat Sumbul</apellidos>
+       <fechanacimiento>12/12/1901</fechanacimiento>
+       <telefono>878965654</telefono>
+       <direccion>بارلخثضلح</direccion>
+       <correo>muhammadamrabatsumbul@hotmail.com</correo>
+    </informacion>
+    <estudios>
+        <nombre>Dietetica</nombre>
+        <anosdeformacion>4</anosdeformacion>
+    </estudios>
+
+    <habilidades>
+        <habilidad>Comunicación</habilidad>
+        <habilidad>Bum BUM tam tam</habilidad>
+        <habilidad>nose</habilidad>
+    </habilidades>
+    <diomas>
+        <idioma>
+            <nombre>Árabe</nombre>
+            <título>Nativo</título>
+        </idioma>
+        <idioma>
+            <nombre>Colombiano marihuano</nombre>
+            <titulo>C1</titulo>
+        </idioma>
+    </diomas>
+
+
+
+</curriculum>
